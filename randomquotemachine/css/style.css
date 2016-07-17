@@ -1,0 +1,32 @@
+ @import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+
+
+body{
+  background:black;
+  font-family: Josefin Sans, Verdana, Sans Serif;
+}
+
+#getQuote{
+  float:right;
+}
+
+#shareButton{
+  float:left;
+}
+
+.quote-box{
+  margin: auto;
+  margin-top: 50px;
+  padding: 25px 25px 25px 25px;
+  width: 500px;
+  height: 225px;
+  background: white;
+  font-size: 18px;
+}
+.quote-section{
+    height:75px;
+}
+
+.author-section{
+  text-align: right;
+}
